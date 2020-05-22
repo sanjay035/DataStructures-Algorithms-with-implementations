@@ -12,3 +12,4 @@ My implementations of various data structures and algorithms pseudo code from th
 10. <a href="https://ideone.com/e8ZWBO">Common Prefixes, sorted order of strings using prefix trie</a>
 11. <a href="https://ideone.com/45LIh1">Infix, Prefix, Postfix expression to expression tree using stack & binary trees</a>
 12. <a href="https://ideone.com/mtwH5r">Infix to Prefix, Postfix expression using stacks</a>
+13. <a href="https://ideone.com/UdCkpn">Minimum spanning trees using Kruskal's & Prim's algorithm</a>
