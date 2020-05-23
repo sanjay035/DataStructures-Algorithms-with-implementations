@@ -13,3 +13,4 @@ My implementations of various data structures and algorithms pseudo code from th
 11. <a href="https://ideone.com/45LIh1">Infix, Prefix, Postfix expression to expression tree using stack & binary trees</a>
 12. <a href="https://ideone.com/mtwH5r">Infix to Prefix, Postfix expression using stacks</a>
 13. <a href="https://ideone.com/UdCkpn">Minimum spanning trees using Kruskal's & Prim's algorithm</a>
+14. <a href="https://ideone.com/wGSJ7W">Cut vertices(Articulation points) and Cut edges(Bridges) using discovery, minimum finish timestamps in a graph.</a>
