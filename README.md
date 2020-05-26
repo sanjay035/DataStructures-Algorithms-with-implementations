@@ -1,5 +1,5 @@
 # DataStructures-Algorithms-with-implementations
-My implementations of various data structures and algorithms pseudo code from the famous book "**Introduction to Algorithms**" by "**CLRS**" (**Cormen, Leiserson, Rivest, Stein**).
+My implementations of DSA pseudo codes from the famous book "**Introduction to Algorithms**" by "**CLRS**" (**Cormen, Leiserson, Rivest, Stein**).
 1. <a href="https://ideone.com/bDpFMw">Heap Sort</a>
 2. <a href="https://workat.tech/codes/u3kga6k1">Singly linked list</a>
 3. <a href="https://ideone.com/r6iZfI">Circular queue using arrays</a>
