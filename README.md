@@ -21,3 +21,4 @@ My implementations of DSA pseudo codes from the famous book "**Introduction to A
 19. <a href="https://ideone.com/6HlfDE">All pairs shortest path using Floyd-Warshall algorithm</a>
 20. <a href="https://ideone.com/EdYSh6">Quick select Kth largest element using randomization</a>
 21. <a href="https://ideone.com/UbiSjb">Merge sort a linked list with iterative & recursive merge</a>
+22. <a href="https://ideone.com/MjYoLl">Mid stack with getMid(), deleteMid() in O(1)</a>
