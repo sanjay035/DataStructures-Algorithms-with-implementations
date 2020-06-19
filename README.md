@@ -22,3 +22,4 @@ My implementations of DSA pseudo codes from the famous book "**Introduction to A
 20. <a href="https://ideone.com/EdYSh6">Quick select Kth largest element using randomization</a>
 21. <a href="https://ideone.com/UbiSjb">Merge sort a linked list with iterative & recursive merge</a>
 22. <a href="https://ideone.com/MjYoLl">Mid stack with getMid(), deleteMid() in O(1)</a>
+23. <a href="https://ideone.com/yfsUSu">Kth largest element in a stream of numbers using heaps</a>
